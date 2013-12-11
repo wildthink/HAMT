@@ -15,3 +15,6 @@ http://infoscience.epfl.ch/record/166908/files/ctries-techreport.pdf
 
 https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/PersistentHashMap.java
 
+[A Short Hister of the B-Tree](http://www.perforce.com/blog/110928/short-history-btree)
+
+[Stratified B-trees and versioning dictionaries] (http://arxiv.org/abs/1103.4282)
