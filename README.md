@@ -18,3 +18,7 @@ https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/PersistentHa
 [A Short History of the B-Tree](http://www.perforce.com/blog/110928/short-history-btree)
 
 [Stratified B-trees and versioning dictionaries] (http://arxiv.org/abs/1103.4282)
+
+[RMTrees - Bagwell](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
+
+[RRB Trees - js](http://jsperf.com/native-array-vs-rrb-tree)
