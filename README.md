@@ -22,3 +22,5 @@ https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/PersistentHa
 [RMTrees - Bagwell](http://infoscience.epfl.ch/record/169879/files/RMTrees.pdf)
 
 [RRB Trees - js](http://jsperf.com/native-array-vs-rrb-tree)
+
+[Adaptive Radix Tree in C](https://github.com/armon/libart)
