@@ -24,3 +24,5 @@ https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/PersistentHa
 [RRB Trees - js](http://jsperf.com/native-array-vs-rrb-tree)
 
 [Adaptive Radix Tree in C](https://github.com/armon/libart)
+
+[Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections](http://michael.steindorfer.name/publications/oopsla15.pdf)
