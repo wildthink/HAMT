@@ -26,3 +26,5 @@ https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/PersistentHa
 [Adaptive Radix Tree in C](https://github.com/armon/libart)
 
 [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections](http://michael.steindorfer.name/publications/oopsla15.pdf)
+
+[Leveling Clojurs Hash Maps](https://bendyworks.com/leveling-clojures-hash-maps/)
